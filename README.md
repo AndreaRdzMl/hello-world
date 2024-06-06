@@ -1,3 +1,3 @@
 # hello-world
-primer repositorio de Git Hui Practice
-Mi nombre es Andrea y esto aprendiendo a Codificar
+Primer repositorio de Git Hub Practica
+Mi nombre es Andrea y estoy aprendiendo a Codificar
